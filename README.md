@@ -29,5 +29,21 @@ them to get authenticated in github is safer)
 
 5. Match the string of the repository title with :owner/:contributor
 
+**#Covered test cases**
+
+1. Login authentication
+
+2.Entering a valid repository with 15+ commits (page size is determined with 15 per page to insure good performance)
+
+3.Entering invalid repository
+
+4.Entering a valid repository with less than 15 commit
+
+5.Pagination using infinite scrolling
+
+6. Logging out from commits list view screen
+
+7. Logging out from 'Enter Repository' screen
+
 
 ![](ezgif.com-gif-maker.gif)
