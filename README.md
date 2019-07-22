@@ -27,4 +27,7 @@ them to get authenticated in github is safer)
 
 4. Make a server side code to handle the authentication token exchange with the authentication code for security reasons, since github api authentication don't support implicit authentication
 
+5. Match the string of the repository title with :owner/:contributor
+
+
 ![](ezgif.com-gif-maker.gif)
